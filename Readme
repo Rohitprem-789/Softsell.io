@@ -1,0 +1,17 @@
+# SoftSell
+SoftSell is a one-page responsive website for a software resale startup.
+
+## Features
+- Hero section
+- How It Works
+- Why Choose Us
+- Testimonials
+- FAQ
+- Contact Form
+- AI-powered Chat
+
+## How to Run
+1. Clone the repository: `git clone https://github.com/Rohitprem-789/Softsell.io.git`
+2. Navigate to the project directory: `cd Softsell.io`
+3. Install dependencies: `npm install`
+4. Run the development server: `npm run dev`
